@@ -2,9 +2,8 @@
     width: 50%;
     margin: 0 auto;
     padding: 2rem;
-    background: linear-gradient(135deg, #0b6623, #228B22, #ADFF2F);
-
-
+    background: #f0f3f7;
+    border-color: #054411;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
@@ -12,7 +11,7 @@
   .contact-header {
     font-size: 4rem;
     margin-bottom: 2rem;
-    color: #f4f4f4;
+    color: #1697f3;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
@@ -22,7 +21,7 @@
     font-size: 1.2rem;
     font-weight: bold;
     border: #054411;
-    color: #ffffff;
+    color: #1697f3;
   }
   
   input,
@@ -45,8 +44,8 @@
   }
   
   button[type='submit'] {
-    background-color: #f0f3f7;
-    color: #054411;
+    background-color: #054411;
+    color: #ffffff;
     border: none;
     padding: 0.5rem 2rem;
     border-radius: 5px;
